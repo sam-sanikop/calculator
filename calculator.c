@@ -10,6 +10,8 @@ int main()
     mul=a*b;
     if (b!=0)
     {
-        div=a/b
+        div=a/b;
     }
+    printf("sum=%d",sum);
+    return 0;
 }
